@@ -1,9 +1,16 @@
 body{
 	overflow:hidden;
-	background-color:#fcfcfc;
+	background-color:#3B2314;
 	margin:0;
 	padding:0;
 }
+
+/* 마우스 설정하기 */
+/* 전체 요소를 선택하여 강제로 커서 고정 */
+* {
+  cursor: url('../pics/Artboard\ 9.png') 10 10, auto !important;
+}
+
 
 .magazine-viewport .container{
 	position:absolute;
