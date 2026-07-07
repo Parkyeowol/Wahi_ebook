@@ -8,7 +8,7 @@ body{
 /* 마우스 설정하기 */
 /* 전체 요소를 선택하여 강제로 커서 고정 */
 * {
-  cursor: url('../pics/Artboard\ 9.png') 10 10, auto !important;
+  cursor: url('../img/mouse.png') 10 10, auto !important;
 }
 
 
